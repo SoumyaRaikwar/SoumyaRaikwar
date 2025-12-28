@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓 I’m an engineering student<br>🔭 I’m currently working on DevOps, Cloud-technologies and  backend dev.<br>👯 I’m looking to collaborate on opensource projects<br>🤝 I’m looking for help with advanced Kubernetes, distributed systems, and scalability<br>🌱 I’m currently learning DevOps, backend dev, golang and cloud computing<br>⚡ Fun fact: I enjoy breaking systems just to understand how they work
 
 
