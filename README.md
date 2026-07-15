@@ -14,7 +14,7 @@
 - 🛰️ **LFX Mentee @ CNCF** — building the **AI Self-Service Skills Framework** for [Jaeger](https://github.com/jaegertracing/jaeger), mentored by Jaeger's creator [@yurishkuro](https://github.com/yurishkuro)
 - 🔍 I work where **Agentic AI meets Observability**: MCP tools, GenAI semantic conventions, and distributed traces of AI agent conversations
 - 🧠 Built [**CodeSight AI**](https://github.com/SoumyaRaikwar/CodeSight_AI) — an agentic RAG system that lets you chat with any GitHub repo
-- ✍️ Off-keyboard: swimming 🏊 and writing poems 📝
+- ✍️ Off-keyboard: swimming 🏊 and writing 📝
 
 ## 🛠️ Core Stack
 
